@@ -3,7 +3,7 @@
 > An application where can store contacts, update and delete. 
 
 
-## :film_projector: DEMO
+## :film_projector: OUTPUT
 <p align="center">
 <img src="src/Screenshot (19).png" alt="contactmanager">
   <img src="src/Screenshot (20).png" alt="contactmanager">
